@@ -1,0 +1,33 @@
+# Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Django-related
+*.sqlite3
+db.sqlite3
+*.log
+local_settings.py
+.env
+
+# Migrations (optional)
+**/migrations/*.py
+!**/migrations/__init__.py
+
+# Static and media files (if not tracked)
+staticfiles/
+media/
+
+# IDE and system files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Node.js (if using frontend in Django)
+node_modules/
