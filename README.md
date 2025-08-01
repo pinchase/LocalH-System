@@ -66,7 +66,7 @@ Clone the repo
 bash
 Copy
 Edit
-git clone https://github.com/your-username/localh-system.git
+git clone https://github.com/pinchase/localh-system.git
 cd localh-system
 Install dependencies
 
